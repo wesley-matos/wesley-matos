@@ -3,7 +3,7 @@
   🚧 <strong> Perfil em construção...</strong>  🚧
 </h4
   
-- 📚 <strong>Estudando:</strong> HTML, CSS e JvaScript;
+- 📚 <strong>Estudando:</strong> HTML6, CSS3 e JavaScript;
 - ⚡ <strong>Fun fact:</strong> Só tomo banho pelado.
 
   
@@ -25,7 +25,5 @@
    <a href="https://www.linkedin.com/in/wesley-matos-8b9aba36/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/devapos30" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wesleya.matos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
+  </div>
   ![Snake animation](https://github.com/wesley-matos/wesley-matos/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
