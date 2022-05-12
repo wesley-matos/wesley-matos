@@ -1,8 +1,12 @@
-### Olá, eu sou o Wesley Matos 👋
+### E aí, suave? 👋
+<h4 align="center">
+  🚧 <strong> Perfil em construção...</strong>  🚧
+</h4
+  
+- 📚 <strong>Estudando:</strong> HTML, CSS e JvaScript;
+- ⚡ <strong>Fun fact:</strong> Só tomo banho pelado.
 
-- 🌱 Estudando HTML, CSS e JvaScript
-- ⚡ Fun fact: Só tomo banho pelado
-
+  
 <div align="center">
   <a href="https://github.com/wesley-matos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesley-matos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
