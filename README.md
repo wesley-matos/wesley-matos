@@ -3,7 +3,7 @@
   🚧 <strong> Perfil em construção...</strong>  🚧
 </h4
   
-- 📚 <strong>Estudando:</strong> HTML6, CSS3 e JavaScript;
+- 📚 <strong>Estudando:</strong> HTML5, CSS3 e JavaScript;
 - ⚡ <strong>Fun fact:</strong> Só tomo banho pelado.
 
   
